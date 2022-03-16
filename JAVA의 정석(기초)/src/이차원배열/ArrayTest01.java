@@ -11,11 +11,12 @@ public class ArrayTest01 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
-		int number[][]=new int[3][5];
+		int number[][]=new int[3][3];
 		int sum = 0;
+		
 		for(int i =0; i < number.length; i++) {
 			System.out.println("자바. 파이썬 . c언어 점수를 입력하시오. > ");
-			for(int j = 0; j < number[i].length-2; j++) {
+			for(int j = 0; j < number[i].length; j++) {
 				number[i][j]=scan.nextInt();
 			}
 			System.out.println();
@@ -23,7 +24,7 @@ public class ArrayTest01 {
 		System.out.println("과목\t자바|\t파이썬|\tc언어");
 		for(int i =0; i < number.length; i++) {
 			System.out.print(i+1+"조");
-			for(int j = 0; j < number[i].length-2; j++) {
+			for(int j = 0; j < number[i].length; j++) {
 				System.out.print("\t"+number[i][j]);
 			}
 
