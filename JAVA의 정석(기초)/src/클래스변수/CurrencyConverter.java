@@ -1,6 +1,6 @@
 package 클래스변수;
-
-import java.util.Scanner;
+ 
+import java.util.Scanner; 
 
 /*
  * static변수를 이용하여 달러와 완화를 변환 해주는 환율 계산기를 만들어보자.
