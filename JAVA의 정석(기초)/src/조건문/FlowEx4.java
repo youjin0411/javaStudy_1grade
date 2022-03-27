@@ -19,7 +19,7 @@ public class FlowEx4 {
 		System.out.println("당신은 "+user+"입니다.");
 		System.out.println("컴은 "+ com + "입니다.");
 		
-		switch(com - user) {
+		switch(user - com) {
 		case -1: 
 		case 2: 
 			System.out.println("당신이 졌습니다.");break;

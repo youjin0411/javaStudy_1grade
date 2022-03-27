@@ -5,7 +5,7 @@ public class average {
 		// TODO Auto-generated method stub
 		
 		Scanner scan = new Scanner(System.in);
-		int num1[] = new int[10];
+		int num1[] = new int[2];
 		int sum =0;
 		for(int i =0; i<num1.length;i++) {
 			System.out.println((i+1)+"번째 숫자를 입력하시오.");

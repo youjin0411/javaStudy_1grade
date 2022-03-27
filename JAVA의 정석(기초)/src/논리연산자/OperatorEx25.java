@@ -12,7 +12,7 @@ public class OperatorEx25 {
 		String input = scan.nextLine();
 		ch = input.charAt(0);
 		
-		if('0' <= ch && ch <= 9) {
+		if('0' <= ch && ch <= '9') {
 			System.out.println("입력하신 문자는 숫자입니다.");
 		}
 		if('a'<=ch && ch <='z') {

@@ -13,8 +13,8 @@ public class ArrayResult {
 		int min = 100;
 		int result = 0; 
 	
+		System.out.println("배열에 입력할 수를 입력하시오");
 		for(int i =0; i < arrsize; i++) {
-			System.out.println("배열에 입력할 수를 입력하시오");
 			System.out.print((i+1)+"번째 값을 입력하시오.");
 			number[i] = scan.nextInt();
 			
