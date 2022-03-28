@@ -2,7 +2,7 @@ package 오버라이딩;
 
 class Shape {
 	public Shape next;
-	
+	 
 	public Shape() {
 		next = null;
 	}

@@ -1,5 +1,5 @@
 package »ó¼Ó;
- 
+  
 public class ColorPointEX {
 	public static void main(String[] args) {
 		Point p = new Point();

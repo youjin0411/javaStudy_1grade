@@ -1,5 +1,5 @@
 package 상속;
- 
+  
 public class ColorPoint extends Point{
 	private String color; //점의 색
 	public void setColor(String color) {

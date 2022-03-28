@@ -2,7 +2,6 @@ package SuperTest;
 
 public class Point {
 	private int x,y;
-	
 	public Point() {
 		this.x=this.y=0;
 	}
