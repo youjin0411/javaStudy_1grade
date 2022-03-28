@@ -4,7 +4,7 @@ public class OverRindingEx {
 	static void paint(Shape p) {
 		p.draw();
 	}
-	  
+	   
 	public static void main(String args[]) {
 		paint(new Shape());
 		paint(new Line());
