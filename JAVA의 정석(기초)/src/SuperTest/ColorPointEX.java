@@ -6,7 +6,7 @@ public class ColorPointEX {
 		// TODO Auto-generated method stub
 		Point p = new Point(3,4);
 		p.showPoint();
-		
+		 
 		ColorPoint cp = new ColorPoint(5,6,"blue");
 		cp.showColorPoint();
 	}

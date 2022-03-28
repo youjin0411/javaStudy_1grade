@@ -13,4 +13,4 @@ public class Point {
 	public void showPoint() {
 		System.out.println("("+x+","+y+")");
 	}
-}
+}  

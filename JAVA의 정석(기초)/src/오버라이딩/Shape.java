@@ -6,7 +6,7 @@ class Shape {
 	public Shape() {
 		next = null;
 	}
-	public void draw() {
+	public void draw() { 
 		System.out.println("shape");
 	}
 }
