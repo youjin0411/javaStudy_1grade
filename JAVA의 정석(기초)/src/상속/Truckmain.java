@@ -1,5 +1,5 @@
 package »ó¼Ó;
-
+ 
 public class Truckmain {
 
 	public static void main(String[] args) {

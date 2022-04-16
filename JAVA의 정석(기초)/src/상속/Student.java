@@ -1,9 +1,9 @@
 package »ó¼Ó;
-
+ 
 public class Student {
 	String name;
 	int hakbun;
-	int callnum;
+	int callnum; 
 	int address;
 	int department;
 	

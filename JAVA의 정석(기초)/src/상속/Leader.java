@@ -1,5 +1,5 @@
 package »ó¼Ó;
-
+ 
 public class Leader extends Student {
 	boolean president;
 	public Leader(String name, int hakbun,boolean president) {
