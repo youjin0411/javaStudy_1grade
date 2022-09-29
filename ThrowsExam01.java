@@ -1,4 +1,5 @@
 package 예외처리중간고사;
+
 public class ThrowsExam01 {
     public static void ThrowsT() throws ArrayIndexOutOfBoundsException{
         String[] num = new String[3];
